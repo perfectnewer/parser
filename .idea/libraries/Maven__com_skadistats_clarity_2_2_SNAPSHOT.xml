@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.skadistats:clarity:2.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/skadistats/clarity/2.2-SNAPSHOT/clarity-2.2-20180218.180214-21.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/skadistats/clarity/2.2-SNAPSHOT/clarity-2.2-20180218.180214-21-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/skadistats/clarity/2.2-SNAPSHOT/clarity-2.2-20180218.180214-21-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
